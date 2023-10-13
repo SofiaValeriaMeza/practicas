@@ -1,0 +1,26 @@
+// incluir libreria 
+#include <iostream>
+/*utilizar todos los caracteres y funciones de la 
+libreria 
+*/
+using namespace std;
+//funcion principal 
+int main(){
+	
+	int a,b,c,d,e,suma,promedio;
+	cout<<"bienvenido a esta rutina la cual calculara tu promedio"<<endl;
+	cout<<"por favor digita la primera evaluacion"<<endl;
+	cin>> a;
+	cout<<"porfavor digita la segunda evaluacion"<<endl;
+	cin>> b;
+	cout<<"porfavor digita la tercera evaluacion"<<endl;
+	cin>> c; 
+	cout<<"porfavor digitaliza la cuarta evaluacion"<<endl;
+	cin>>d;
+	cout<<"porfavor digita la quinta evaluacion"<<endl;
+	cin>>e;
+	promedio =(a+b+c+d+e)/5;
+	cout<<"tu promedio general es de:"<<promedio<<endl;
+	cout<<"gracias por usar esta aplicacion";
+	return 0;
+}
