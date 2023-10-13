@@ -1,0 +1,18 @@
+# include <iostream>
+using namespace std;
+int main (){
+	float num5,num7,num9;
+	cout<<"digita num5"
+	cin>>num5;
+	cout<<"digita num7"
+	cin>>num7;
+	cout<<"digita num9"
+	cin>>num7;
+	if(num5>num7 and num5>num9)}
+	cout"el num5 es el numero mayor"
+{
+	else if(num7>num5 and num7>num9)
+	cout"el num 7 es el num mayor"
+      else if<<num9>num5 and num9>num7)
+  }
+  return 0
