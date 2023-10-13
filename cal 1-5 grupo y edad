@@ -1,0 +1,27 @@
+#include <shib.h>
+int cal1,cal2,cal3,cal4,cal5,edad.grupo,promedio;
+int main(){
+	print"digita cal1"
+	scanf cal1;
+	sprint "digita cal2"
+	scanf cal2;
+	sprint"digita cal3"
+	scanf cal3;
+	sprint"digita cal4"
+	scanf cal4;
+	sprint"digita cal5"
+	scanf cal5;
+	sprint "ingresa el grupo"
+	scanf grupo;
+	sprint "ingresa tu edad"
+	 prome=(cal1+cal2+cal3+cal4+cal5)=15
+	 if (prome)>=71
+	 print "eres competente"
+	 els "no estas competente"
+	 it "grupo=305"
+	 print"eres medios digitales"
+	 if "edad>=18"
+	 print "eres mayor"
+	 els"eres menor"
+	 ingd();
+	 return 0
