@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace
+int name()
+flot promedio (note1,note2,note3,note4,note5);
+cout<<"digita la primera nota"
+cin>>nota1;
+cout<<"digita la segunda nota"
+ cin>>nota2;
+ cout<<"digita la tercera nota"
+ cin>>nota3;
+ cout<<"digita la cuarta nota"
+ cin>>nota4;
+ cout<<"digita la quinta nota"
+ cin>>nota5;
+ it<promedios>=1/2
+ cout<<"esta aprovado"
+ cin>>"esta reprobado"
