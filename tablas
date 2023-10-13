@@ -1,0 +1,34 @@
+#incluir "iostream"
+#incluye "stdio.h"
+usando el espacio de nombres estándar;
+int principal(){
+
+	string usuario,contraseña,usuario="Sistemas", contraseña="Admin01";
+	char seguir, opc;
+	int multiplicacion, numero, i;
+	cout<<"bienvenido(a) por favor ingresa al sistema:\n";
+	cout<<"ingresa tu usuario:";
+	cin>>usuario;
+	cout<<"ingresa tu contraseña:";
+	cin>>pasar;
+	if(usuario==usuario && contraseña==contraseña){
+	hacer{
+		cout<<"por favor ingresa el numero de la tabla a imprimir:";
+		cin>>numero;
+		para(int i=1;i<=10;i++){
+			multiplicacion= 1*numero;
+			cout<<numero<<" x "<<i<<" = "<<multiplicacion<<endl;
+		}
+		cout<<"¿Quieres generar otra tabla de multiplicacion(s/n)?";
+		descarga(stdin);
+		cin>>seguir;
+	}
+	while(seguir!='n');
+
+	}
+	demás{
+		cout<<"usuario no valido por favor contactar a soporte";
+	}
+	cin.get();
+	devolver 0;
+}
